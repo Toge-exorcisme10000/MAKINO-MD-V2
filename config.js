@@ -19,9 +19,9 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.Owner = ["25767334893"]; //like 2347080968564 
+global.OwnerName =  "TOGE INUMAKI";
+global.BotName = "TOGE MDV2";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
